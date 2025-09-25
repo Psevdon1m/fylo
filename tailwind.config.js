@@ -19,7 +19,7 @@ module.exports = {
       backgroundImage: (thene) => ({
         "logo-dark-mode": "url('../images/logo.svg')",
         "logo-light-mode": "url('../images/logo.svg')",
-        "curvy-dark-mode": "url('../images/bg-curvy-mobile.svg')",
+        "curvy-light-mode": "url('../images/bg-curvy-mobile.svg')",
         "curvy-dark-mode": "url('../images/bg-curvy-mobile.svg')",
       }),
     },
